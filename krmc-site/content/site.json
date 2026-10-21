@@ -1,0 +1,482 @@
+{
+  "site": {
+    "title": "KRMC | Kenyan Rotax Max Challenge",
+    "description": "Established in 2024, the KRMC is the official Kenyan Rotax Max Challenge, operated by Cungu Sport and run to global Rotax Max regulations.",
+    "logo": "images/logo/krmc-logo.png",
+    "shareImage": "images/social/share.jpg"
+  },
+  "header": {
+    "topLinks": [
+      {
+        "label": "Get Started",
+        "link": "#getting-started"
+      },
+      {
+        "label": "Enter a Race Today",
+        "link": "#events"
+      },
+      {
+        "label": "Contact Us",
+        "link": "#contact"
+      }
+    ],
+    "menu": [
+      {
+        "label": "Championship",
+        "link": "#classes",
+        "submenu": []
+      },
+      {
+        "label": "KRMC Calendar",
+        "link": "#calendar",
+        "submenu": []
+      },
+      {
+        "label": "KRMC Standings",
+        "link": "#",
+        "submenu": []
+      },
+      {
+        "label": "KRMC News",
+        "link": "#news",
+        "submenu": []
+      },
+      {
+        "label": "Get Started",
+        "link": "#getting-started",
+        "submenu": [
+          {
+            "label": "As a Privateer",
+            "link": "#getting-started"
+          },
+          {
+            "label": "Through a Team",
+            "link": "#getting-started"
+          },
+          {
+            "label": "What Karting Teaches",
+            "link": "#lessons"
+          }
+        ]
+      },
+      {
+        "label": "Regulations",
+        "link": "#",
+        "submenu": []
+      }
+    ]
+  },
+  "hero": {
+    "image": "images/hero/hero.jpg",
+    "brand": "ROTAX",
+    "title": "Kenyan Rotax\nMax Challenge",
+    "subtitle": "Race Your Way",
+    "buttonLabel": "Enter a Race Today",
+    "buttonLink": "#events"
+  },
+  "events": [
+    {
+      "tab": "Rotax East African Cup",
+      "championship": "2026 Rotax East African Cup",
+      "title": "Rotax East African Cup",
+      "dates": "21 – 22 November 2026",
+      "start": "2026-11-21T08:00",
+      "venue": "Whistling Morans",
+      "trackImage": "images/tracks/whistling-morans.png",
+      "buttons": [
+        {
+          "label": "Enter Now",
+          "link": "#contact"
+        },
+        {
+          "label": "Event Info",
+          "link": "#calendar"
+        },
+        {
+          "label": "Full Calendar",
+          "link": "#calendar"
+        }
+      ]
+    },
+    {
+      "tab": "KRMC Round 4",
+      "championship": "2026 KRMC Series",
+      "title": "Round 4 — KRMC Series",
+      "dates": "5 – 6 December 2026",
+      "start": "2026-12-05T08:00",
+      "venue": "Whistling Morans · Short Clockwise",
+      "trackImage": "images/tracks/whistling-morans-short-clockwise.png",
+      "buttons": [
+        {
+          "label": "Enter Now",
+          "link": "#contact"
+        },
+        {
+          "label": "Event Info",
+          "link": "#calendar"
+        },
+        {
+          "label": "Full Calendar",
+          "link": "#calendar"
+        }
+      ]
+    }
+  ],
+  "calendar": {
+    "kicker": "Season schedule",
+    "title": "2026 KRMC Calendar",
+    "rows": [
+      {
+        "dates": "29 – 30 August 2026",
+        "event": "Round 1: KRMC Series",
+        "location": "Whistling Morans Short Clockwise",
+        "lastDay": "2026-08-30"
+      },
+      {
+        "dates": "19 – 20 September 2026",
+        "event": "Round 2: KRMC Series",
+        "location": "Whistling Morans Anti-clockwise",
+        "lastDay": "2026-09-20"
+      },
+      {
+        "dates": "17 – 18 October 2026",
+        "event": "Round 3: KRMC Series",
+        "location": "Whistling Morans Anti-clockwise",
+        "lastDay": "2026-10-18"
+      },
+      {
+        "dates": "21 – 22 November 2026",
+        "event": "Rotax East African Cup",
+        "location": "Whistling Morans",
+        "lastDay": "2026-11-22"
+      },
+      {
+        "dates": "5 – 6 December 2026",
+        "event": "Round 4: KRMC Series",
+        "location": "Whistling Morans Short Clockwise",
+        "lastDay": "2026-12-06"
+      }
+    ]
+  },
+  "news": {
+    "kicker": "Keep up to date!",
+    "title": "KRMC News",
+    "intro": "Stay up to date with the latest news, results and standings from the Kenyan Rotax Max Challenge. Check back regularly for updates!",
+    "articles": [
+      {
+        "title": "A New Era Takes Shape: The 2026 Kenyan Rotax Max Challenge Kicks Off at Whistling Morans",
+        "date": "2 Sep 2026",
+        "tag": "Results",
+        "author": "Cungu Kamau",
+        "image": "https://static.wixstatic.com/media/baff4a_f7f543e580ce421a95ee2fe46b06ee2c~mv2.jpg/v1/fill/w_900,h_600,al_c,q_85,enc_auto/baff4a_f7f543e580ce421a95ee2fe46b06ee2c~mv2.jpg",
+        "body": "The promise of a new season turned into a gripping spectacle of speed and resilience at Whistling Morans, as the 2026 Kenyan Rotax Max Challenge delivered a day of intense competition. The preview article for the event highlighted the dawn of a new era, and the race results from the track have now painted a vivid picture of the season's early frontrunners and the sheer unpredictability of motorsport.\n\n## Senior Max: A Day of Highs, Lows, and DNFs\n\nThe Senior Max category lived up to its billing as a fiercely competitive class, with a mix of dominant performances and frustrating retirements shaping the final standings. The day was notably defined by attrition, as highlighted by the \"Heat 1 senior DNF ALL DRIVERS\" result, signaling a chaotic start for many of the top contenders.\n\nHowever, amidst the chaos, two drivers emerged as the clear class of the field:\n\n**Simon Alex** demonstrated remarkable consistency and race-craft to secure a commanding victory. His performance was highlighted by an exceptional qualifying session where he posted a blistering lap of 1:00.422. He carried this pace into the heats, showing his ability to manage the race and capitalize on the misfortunes of others.\n\n**Jessy Murithi** proved to be Simon Alex's closest rival, finishing third overall. Murithi was equally impressive in qualifying, with a best lap of 1:00.523, and he consistently ran at the front, setting up what promises to be a thrilling season-long battle for supremacy.\n\n**Zahran Mogul** also showed strong pace. He set the fastest lap of the day in Heat 3 of 1:00.114. However, his day was marred by two DNFs, a setback that prevented him from challenging for the win.\n\n## Mini Max: A Glimpse of the Future Stars\n\nIn the Mini Max category, the younger generation showcased their talent and hunger for success. All eyes were on the two standout drivers, Abdul Nasir and Thayu RJ, who are quickly establishing themselves as the future of Kenyan karting.\n\n**Abdul Nasir** was in a class of his own. He dominated the proceedings, setting the fastest lap times across multiple sessions. His consistency was remarkable, and he also recorded the fastest lap of 1:03.503 in qualifying. His ability to maintain this pace over long runs suggests he is a clear favorite for the championship.\n\n**Thayu RJ Matalanga** showed immense promise in his first ever race with consistent laptimes and completing every race on the day during his KRMC race debut. It will be exciting to see how he develops over the remainder of the 2026 KRMC season.\n\n## Looking Ahead\n\nRound 1 of the 2026 Kenyan Rotax Max Challenge has set the stage for an electrifying season. While Simon Alex and Jessy Murithi have drawn first blood in Senior Max, and Abdul Nasir has stamped his authority in Mini Max, the championship is far from decided. With many drivers, including established names likely to participate in later rounds of the championship, the next round promises to be a fierce battle for redemption.\n\nThe action at Whistling Morans has proven that this new era is not just about speed, but also about resilience, consistency, and the ability to seize the moment when it counts. The paddock is already buzzing with anticipation for the next chapter in this thrilling Kenyan motorsport story."
+      },
+      {
+        "title": "A New Era Begins: The 2026 Kenyan Rotax Max Challenge Kicks Off at Whistling Morans",
+        "date": "18 Aug 2026",
+        "tag": "Preview",
+        "author": "Cungu Kamau",
+        "image": "https://static.wixstatic.com/media/baff4a_ff78a3257e2c4fa9b56013a1c40593c9~mv2.jpeg/v1/fill/w_980,h_653,al_c,q_85,enc_auto/baff4a_ff78a3257e2c4fa9b56013a1c40593c9~mv2.jpeg",
+        "body": "The dust has barely settled on a spectacular 2025 season, but the engines are already revving for the highly anticipated 2026 Kenyan Rotax Max Challenge (KRMC). Returning to the fast and demanding Whistling Morans Circuit, the Main Series Round 1 takes place on the weekend of August 29–30. Following one of the most thrilling championship deciders in recent memory, the stage is set for a new chapter of fierce rivalries and high-speed battles.\n\n## Looking Back: The 2025 Championship Drama\n\nThe 2025 Junior Rotax championship was a masterclass in tension, ultimately decided by a point tie-break after a grueling 13-race season.\n\n- **The Champion:** Krrish Vadgama clinched the 2025 Junior Rotax title with 338 points. His formidable consistency at the final round—taking two heat wins and two second-place finishes—secured him the overall victory and the bragging rights to race with the prestigious Number 1 plate.\n- **The Tie-Break:** The battle for second was decided by the narrowest of margins. Alvin Kioko and Luusa Magana both finished the season perfectly tied on 311 points. Kioko secured the vice-champion spot and the Junior Rotax U15 title on a countback rule, thanks to his four second-place finishes compared to Magana's three. Magana's costly retirement (DNF) after 6 laps in Heat 2 ultimately relegated him to third overall.\n- **Rounding Out the Top Five:** Myles Imbayi finished a solid fourth with 291 points, while Zahran Mogul took fifth with 288 points.\n- **Mini Max Glory:** Rio Bixente Wyles was crowned the Mini Max champion, followed by Ishaan Patel in second and Terrah Ababu in third.\n\n## The 2026 Season Opener: What to Expect\n\nAs the grid forms for the 2026 Main Series Round 1 on August 29–30, all eyes will be on the Whistling Morans Circuit. The newly released entry list promises immediate action across the categories, showcasing both familiar faces and new challengers.\n\n**Senior Max** — The Senior Max grid is shaping up to be highly competitive, highlighted by the arrival of the 2025 Junior Rotax vice-champion Alvin Kioko. Now stepping up to the senior ranks, Kioko will face stiff competition right from the green light. The entry list includes:\n\n- Alvin Kioko\n- Simon Alex\n- Ryan Kariuki\n- Jessy Muriithi\n\n**Mini Max** — The Mini Max class will feature a new wave of young talent eager to make their mark on the legendary circuit. The confirmed entries to watch include:\n\n- Thayu Matalanga\n- Abdulnassir Ahmed Elmi\n- Kimuri Kamau\n\nWith clean slates, new classes, and the echoes of last year's dramatic battles still lingering, the drivers are ready to lay down their markers. If the drama of 2025 was any indication, the Whistling Morans Circuit will once again be the ultimate proving ground for Kenya's top karting talents."
+      }
+    ]
+  },
+  "classes": {
+    "kicker": "Championship classes",
+    "title": "The Kenyan Rotax Max Challenge",
+    "intro": "The KRMC is run to global Rotax Max regulations, with age-relevant categories from first-time Bambino racers through to DD2 Masters.",
+    "items": [
+      {
+        "name": "Bambino",
+        "ages": "5 – 9 Years",
+        "image": "images/classes/bambino.jpg",
+        "link": "#"
+      },
+      {
+        "name": "Micro MAX",
+        "ages": "7 – 11 Years",
+        "image": "images/classes/micro-max.jpg",
+        "link": "#"
+      },
+      {
+        "name": "Mini MAX",
+        "ages": "9 – 13 Years",
+        "image": "images/classes/mini-max.jpg",
+        "link": "#"
+      },
+      {
+        "name": "Junior MAX",
+        "ages": "12 – 14 Years",
+        "image": "images/classes/junior-max.jpg",
+        "link": "#"
+      },
+      {
+        "name": "Senior MAX",
+        "ages": "14+ Years",
+        "image": "images/classes/senior-max.jpg",
+        "link": "#"
+      },
+      {
+        "name": "DD2",
+        "ages": "15+ Years",
+        "image": "images/classes/dd2.jpg",
+        "link": "#"
+      },
+      {
+        "name": "DD2 Masters",
+        "ages": "32+ Years",
+        "image": "images/classes/dd2-masters.jpg",
+        "link": "#"
+      }
+    ]
+  },
+  "video": {
+    "title": "Video",
+    "intro": "Kenyan Rotax Max Challenge LIVE",
+    "youtubeLink": ""
+  },
+  "about": {
+    "kicker": "The championship explained",
+    "title": "About the KRMC",
+    "paragraphs": [
+      "Established in 2024, the KRMC is the official Kenyan Rotax Max Challenge, operated by Kenya's official Rotax Max importer, Cungu Sport.",
+      "The championship is run to global Rotax Max regulations, giving Kenyan drivers the same engines, rules and standards used by Rotax Max Challenge series around the world.",
+      "Enter a race today and reserve your spot on the grid."
+    ],
+    "linkLabel": "KRMC Calendar",
+    "link": "#calendar",
+    "image": "images/about/about.jpg"
+  },
+  "gettingStarted": {
+    "kicker": "Get started",
+    "title": "Getting started in karting",
+    "cards": [
+      {
+        "title": "As a Privateer",
+        "paragraphs": [
+          "As a privateer, you manage every part of your racing yourself: equipment, finances and race preparation. It gives you independence and real hands-on experience.",
+          "Start by getting a competitive kart, engine and safety gear. Work with coaches and practise to build your skills, and enter local races to learn how racing works. A network of mechanics you can call on is a big help."
+        ]
+      },
+      {
+        "title": "Through a Team",
+        "paragraphs": [
+          "Joining a karting team lets you focus on driving while the team handles logistics and support. Pick a team with a strong track record and ask them about a seat.",
+          "Teams often provide equipment and financial backing, so you can concentrate on your performance. Being part of a team can also open up sponsorship opportunities and useful contacts in motorsport."
+        ]
+      }
+    ]
+  },
+  "lessons": {
+    "kicker": "Qualities karting teaches you",
+    "title": "Life lessons and discipline",
+    "intro": "Karting isn't only about speed and winning. It teaches lessons that carry well beyond the track.",
+    "items": [
+      {
+        "title": "Resilience",
+        "text": "Racing has highs and lows, from mechanical failures to crashes and tough rivals. Learning to bounce back is one of its biggest lessons."
+      },
+      {
+        "title": "Discipline",
+        "text": "Success takes consistent practice, fitness and mental preparation, habits that serve you in racing and in life."
+      },
+      {
+        "title": "Focus & Strategy",
+        "text": "Karting demands intense concentration, thinking several moves ahead and making split-second decisions under pressure."
+      },
+      {
+        "title": "Teamwork & Communication",
+        "text": "Privateer or team driver, you'll work closely with engineers, mechanics and fellow drivers to succeed."
+      },
+      {
+        "title": "Time & Money Management",
+        "text": "Racing is expensive. Balancing your ambitions with budgets and schedules sharpens your organisational skills."
+      }
+    ]
+  },
+  "photoStrip": [
+    {
+      "image": "images/social/social-1.jpg",
+      "link": ""
+    },
+    {
+      "image": "images/social/social-2.jpg",
+      "link": ""
+    },
+    {
+      "image": "images/social/social-3.jpg",
+      "link": ""
+    },
+    {
+      "image": "images/social/social-4.jpg",
+      "link": ""
+    },
+    {
+      "image": "images/social/social-5.jpg",
+      "link": ""
+    },
+    {
+      "image": "images/social/social-6.jpg",
+      "link": ""
+    }
+  ],
+  "appBar": {
+    "label": "Download the\nofficial Rotax app",
+    "appStoreLink": "https://apps.apple.com/us/app/rotax-global/id1298634783",
+    "googlePlayLink": "https://play.google.com/store/apps/details?id=air.com.rotax.app",
+    "facebookLink": "",
+    "instagramLink": "",
+    "youtubeLink": ""
+  },
+  "partners": {
+    "title": "Our Partners",
+    "items": [
+      {
+        "name": "Rotax",
+        "logo": "https://kart.co.za/wp-content/uploads/2021/03/Rotax-400x77.png",
+        "link": "https://www.rotax-racing.com/en/Home"
+      },
+      {
+        "name": "Rotax MAX Challenge",
+        "logo": "https://kart.co.za/wp-content/uploads/2023/01/RMC-23-400x133.png",
+        "link": "https://www.rotax-racing.com/pro-racing-in-the-rotax-max-challenge"
+      },
+      {
+        "name": "XPS",
+        "logo": "https://kart.co.za/wp-content/uploads/2021/03/XPS-400x133.png",
+        "link": "https://www.rotax-racing.com/xps"
+      },
+      {
+        "name": "Mojo",
+        "logo": "https://kart.co.za/wp-content/uploads/2021/03/Mojo-400x133.png",
+        "link": "https://www.rotax-racing.com/mojo-go-kart-tyres"
+      },
+      {
+        "name": "EMR Karting",
+        "logo": "https://kart.co.za/wp-content/uploads/2021/03/EMR-Karting-400x109.png",
+        "link": "https://www.kartstore.co.za/"
+      }
+    ]
+  },
+  "footer": {
+    "columns": [
+      {
+        "links": [
+          {
+            "label": "KRMC News",
+            "link": "#news"
+          },
+          {
+            "label": "Video",
+            "link": "#video"
+          },
+          {
+            "label": "Results",
+            "link": "#"
+          },
+          {
+            "label": "Technical",
+            "link": "#"
+          },
+          {
+            "label": "Announcements",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "label": "KRMC Calendar",
+            "link": "#calendar"
+          },
+          {
+            "label": "KRMC Standings",
+            "link": "#"
+          },
+          {
+            "label": "Regulations",
+            "link": "#"
+          },
+          {
+            "label": "Tech Check",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "label": "Championship",
+            "link": "#classes"
+          },
+          {
+            "label": "Bambino",
+            "link": "#classes"
+          },
+          {
+            "label": "Micro Max",
+            "link": "#classes"
+          },
+          {
+            "label": "Mini Max",
+            "link": "#classes"
+          },
+          {
+            "label": "Junior Max",
+            "link": "#classes"
+          },
+          {
+            "label": "Senior Max",
+            "link": "#classes"
+          },
+          {
+            "label": "DD2",
+            "link": "#classes"
+          },
+          {
+            "label": "DD2 Masters",
+            "link": "#classes"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "label": "Get Started",
+            "link": "#getting-started"
+          },
+          {
+            "label": "As a Privateer",
+            "link": "#getting-started"
+          },
+          {
+            "label": "Through a Team",
+            "link": "#getting-started"
+          },
+          {
+            "label": "Enter a Race Today",
+            "link": "#events"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "label": "info@cungusportracing.com",
+            "link": "mailto:info@cungusportracing.com"
+          },
+          {
+            "label": "+27 76 866 8301",
+            "link": "tel:+27768668301"
+          },
+          {
+            "label": "Pretoria, South Africa",
+            "link": ""
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2026 KRMC – Kenyan Rotax Max Challenge · Operated by Cungu Sport"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "krmc-site",
+  "private": true,
+  "type": "module",
+  "description": "KRMC – Kenyan Rotax Max Challenge website with built-in admin",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.3"
+  }
+}

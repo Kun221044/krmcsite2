@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>KRMC Admin</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,700;125,800;125,900&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body>
+
+<!-- LOGIN -->
+<main id="loginView" class="login" hidden>
+  <form class="login-card" id="loginForm" autocomplete="on">
+    <img src="/favicon.svg" alt="" class="login-mark">
+    <h1>KRMC Admin</h1>
+    <p class="muted">Sign in to edit the website.</p>
+    <label for="pw">Password</label>
+    <input id="pw" name="password" type="password" autocomplete="current-password" required>
+    <button type="submit" class="btn primary wide" id="loginBtn">Sign in</button>
+    <p class="msg" id="loginMsg" role="alert"></p>
+  </form>
+  <div class="login-card setup" id="setupCard" hidden>
+    <img src="/favicon.svg" alt="" class="login-mark">
+    <h1>Admin not set up yet</h1>
+    <p>To switch on the admin, open your site in Netlify and go to <b>Site configuration → Environment variables</b>. Add:</p>
+    <p><code>ADMIN_PASSWORD</code> = a password of at least 8 characters</p>
+    <p>Then run <b>Deploys → Trigger deploy</b> once and reload this page.</p>
+  </div>
+</main>
+
+<!-- EDITOR -->
+<div id="appView" class="app" hidden>
+  <header class="topbar">
+    <div class="brand"><img src="/favicon.svg" alt=""> KRMC <span>Admin</span></div>
+    <div class="status" id="status">Loading…</div>
+    <div class="actions">
+      <a class="btn ghost" href="/" target="_blank" rel="noopener">View site ↗</a>
+      <button class="btn primary" id="saveBtn" disabled>Save &amp; publish</button>
+      <button class="btn ghost" id="logoutBtn">Log out</button>
+    </div>
+  </header>
+  <div class="layout">
+    <nav class="sidebar" id="sidebar"></nav>
+    <select class="section-select" id="sectionSelect" aria-label="Section"></select>
+    <section class="editor" id="editor"></section>
+  </div>
+</div>
+
+<!-- MEDIA LIBRARY -->
+<dialog id="mediaDialog" class="media">
+  <div class="media-head">
+    <h2>Image library</h2>
+    <label class="btn primary">Upload new<input type="file" accept="image/*" id="mediaUpload" hidden></label>
+    <button class="btn ghost" id="mediaClose">Close</button>
+  </div>
+  <p class="muted">Click an image to use it. Images uploaded here are stored with the site and appear instantly.</p>
+  <div class="media-grid" id="mediaGrid"></div>
+</dialog>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script src="/admin/admin.js"></script>
+</body>
+</html>
